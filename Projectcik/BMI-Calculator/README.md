@@ -30,5 +30,5 @@ BMI = weight(kg) / (height * height) (m^2)
 
 💡 Whith this list, you can check what category the BMI of the user falls in and return the respective result as well as the BMI, like so 👇🏼   
 ```go
-fmt.Printf("Your BMI is %.2f, your weight is %s", bmi, status)
+fmt.Printf("Your BMI is %.2f, your weight is %s \n", bmi, status)
 ```
