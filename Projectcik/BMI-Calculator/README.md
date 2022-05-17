@@ -7,7 +7,7 @@ and is **not** to be used as measure for ones health 👨🏻‍⚕️
 ### With that out the way 🚪 let's get started 🎬
 
 #### How the BMI calculator works 💪🏼
-BMI = weight(kg) / height * height (m^2)
+BMI = weight(kg) / (height * height) (m^2)
 
 
 
